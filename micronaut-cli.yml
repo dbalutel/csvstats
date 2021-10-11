@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.dbalutsel
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [ annotation-api, app-name, assertj, graalvm, java, junit, logback, lombok, maven, mockito, picocli, picocli-java-application, picocli-junit, readme, shade, yaml ]
